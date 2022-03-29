@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Wild-Fire App
+
+This Project was created following a youtube Tutorial 
+Link: https://www.youtube.com/watch?v=ontX4zfVqK8
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
